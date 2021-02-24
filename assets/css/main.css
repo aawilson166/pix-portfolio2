@@ -4662,3 +4662,8 @@ input, select, textarea {
 		color: rgba(40, 40, 40, 0.5);
 		text-align: center;
 	}
+
+
+	.small-font {
+		font-size: .9rem;
+	}
