@@ -4667,3 +4667,8 @@ input, select, textarea {
 	.small-font {
 		font-size: 0.9rem;
 	}
+
+	.inline-link {
+		display: flex;
+		justify-content: space-around;
+	}
