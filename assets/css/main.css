@@ -4672,3 +4672,9 @@ input, select, textarea {
 		display: flex;
 		justify-content: space-around;
 	}
+
+	.skills-list {
+		display: flex;
+		justify-content: space-around;
+		width: 60%;
+	}
