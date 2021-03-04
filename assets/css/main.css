@@ -4674,6 +4674,8 @@ input, select, textarea {
 	}
 
 	.skills-list {
+		margin: 0 auto 0 auto;
+		text-align: center;
 		display: flex;
 		justify-content: space-around;
 		width: 60%;
