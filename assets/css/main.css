@@ -4696,8 +4696,6 @@ input, select, textarea {
 	.about-img {
 		height: 15rem;
 		width: auto;
-		justify-content: center;
-		align-content: center;
-		text-align: center;
-		align-items: center;
+		margin-left: 40%;
+
 	}
