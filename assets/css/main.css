@@ -4700,3 +4700,9 @@ input, select, textarea {
 		margin-left: 40%;
 
 	}
+
+	.gallery {
+		display: flex;
+		justify-content: center;
+
+	}
