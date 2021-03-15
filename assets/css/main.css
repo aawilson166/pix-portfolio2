@@ -4703,6 +4703,10 @@ input, select, textarea {
 
 	.gallery {
 		display: flex;
-		justify-content: center;
+		justify-content: flex-start;
+
+	}
+
+	.gallery.card {
 
 	}
