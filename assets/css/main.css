@@ -4707,6 +4707,13 @@ input, select, textarea {
 
 	}
 
+	@media screen and (max-width: 1024px){
+		.gallery {
+			flex-wrap: wrap;
+		}
+
+	}
+
 	.gallery.card {
 
 	}
